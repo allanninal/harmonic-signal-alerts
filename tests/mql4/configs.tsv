@@ -1,0 +1,3 @@
+hm_default	InpABCD=true,InpGartley=true,InpBat=true,InpLeft=10,InpRight=5,InpTol=5.0,InpPRZ=3.0,InpHistory=3000
+hm_all_loose	InpABCD=true,InpGartley=true,InpBat=true,InpLeft=6,InpRight=3,InpTol=8.0,InpPRZ=4.0,InpHistory=5000
+hm_gartley	InpABCD=false,InpGartley=true,InpBat=false,InpLeft=5,InpRight=2,InpTol=5.0,InpPRZ=3.0,InpHistory=3000

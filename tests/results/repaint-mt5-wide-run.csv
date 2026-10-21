@@ -1,0 +1,10 @@
+indicator,Harmonic\HarmonicPatterns
+params,s:Patterns|b:true|b:true|b:true|s:Swings and ratios|i:10|i:5|d:5.0|d:3.0|s:Display|i:3000|b:true|b:true|b:true|c:6465062|c:4606690|s:Alerts|b:false|b:false|s:alert.wav|b:false|b:false
+symbol,EURUSD
+period,PERIOD_H1
+ticks,10411052
+bars_checked,4644
+signals,21
+changed_after_close,0
+live_bar_signals,0
+DONE

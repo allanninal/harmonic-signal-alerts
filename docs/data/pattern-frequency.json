@@ -1,0 +1,113 @@
+{
+ "M15": {
+  "closed_bars": 25764,
+  "per_symbol": {
+   "BTCUSD": {
+    "bars": 6441,
+    "patterns": 32
+   },
+   "EURUSD": {
+    "bars": 6441,
+    "patterns": 27
+   },
+   "GBPJPY": {
+    "bars": 6441,
+    "patterns": 38
+   },
+   "XAUUSD": {
+    "bars": 6441,
+    "patterns": 21
+   }
+  },
+  "per_1000_bars": {
+   "ABCD": {
+    "bullish": 2.06,
+    "bearish": 1.98
+   },
+   "Gartley": {
+    "bullish": 0.12,
+    "bearish": 0.23
+   },
+   "Bat": {
+    "bullish": 0.12,
+    "bearish": 0.08
+   }
+  },
+  "per_1000_bars_total": 4.58,
+  "bars_per_pattern": 218
+ },
+ "H1": {
+  "closed_bars": 374992,
+  "per_symbol": {
+   "BTCUSD": {
+    "bars": 84304,
+    "patterns": 393
+   },
+   "EURUSD": {
+    "bars": 99999,
+    "patterns": 501
+   },
+   "GBPJPY": {
+    "bars": 99999,
+    "patterns": 462
+   },
+   "XAUUSD": {
+    "bars": 90690,
+    "patterns": 474
+   }
+  },
+  "per_1000_bars": {
+   "ABCD": {
+    "bullish": 2.17,
+    "bearish": 2.19
+   },
+   "Gartley": {
+    "bullish": 0.15,
+    "bearish": 0.17
+   },
+   "Bat": {
+    "bullish": 0.1,
+    "bearish": 0.1
+   }
+  },
+  "per_1000_bars_total": 4.88,
+  "bars_per_pattern": 205
+ },
+ "H4": {
+  "closed_bars": 103893,
+  "per_symbol": {
+   "BTCUSD": {
+    "bars": 21819,
+    "patterns": 90
+   },
+   "EURUSD": {
+    "bars": 28793,
+    "patterns": 145
+   },
+   "GBPJPY": {
+    "bars": 28830,
+    "patterns": 119
+   },
+   "XAUUSD": {
+    "bars": 24451,
+    "patterns": 129
+   }
+  },
+  "per_1000_bars": {
+   "ABCD": {
+    "bullish": 2.01,
+    "bearish": 2.24
+   },
+   "Gartley": {
+    "bullish": 0.15,
+    "bearish": 0.13
+   },
+   "Bat": {
+    "bullish": 0.05,
+    "bearish": 0.07
+   }
+  },
+  "per_1000_bars_total": 4.65,
+  "bars_per_pattern": 215
+ }
+}
